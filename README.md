@@ -5,3 +5,5 @@ If there is no such field, then it searches for a field that will assure player'
 If that kind of field doesn't exist either, then it inserts its sign in random field.</p>
 <hr>
 <img src="https://raw.githubusercontent.com/teo0098/TicTacToe-Game/master/TicTacToe.gif">
+<hr>
+<img src="https://raw.githubusercontent.com/teo0098/TicTacToe-Game/master/TicTacToe2.gif">
