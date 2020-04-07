@@ -3,6 +3,10 @@
 with other player. Computer is designed to first search for a field that will assure computer's win and inserts sign in that field.
 If there is no such field, then it searches for a field that will assure player's win and block that field by putting computer's sign.
 If that kind of field doesn't exist either, then it inserts its sign in random field.</p>
+<p>Technologies used:</p>
+<ul>
+  <li>C#</li>
+</ul>
 <hr>
 <img src="https://raw.githubusercontent.com/teo0098/TicTacToe-Game/master/TicTacToe.gif">
 <hr>
